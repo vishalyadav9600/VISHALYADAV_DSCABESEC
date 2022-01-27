@@ -14,7 +14,7 @@ settings.(user details)
 feedback.
 monthly progression graph.
 
-Note- This is just the demo of my project. I am working on this project right now.
+Note- This is just the demo of my project. I am working on this project.
 © 2022 GitHub, Inc.
 Terms
 Privacy
