@@ -1,6 +1,6 @@
 # VISHALYADAV_DSCABESECwebsite layout:
 key feautures:-
-	Schedule: That what is our target of the day.(challenges)
+	Schedule: Schedule our daily targets.(challenges)
 	competitive notifications: codechef, codeforces, gfg, leetcode
 	daily usage chart(that how much work we have done on every website)
 Login facility.(for all profiles)
